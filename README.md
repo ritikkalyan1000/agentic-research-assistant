@@ -4,6 +4,8 @@ An agentic research assistant built with Google ADK, Streamlit, Tavily Search, S
 
 This project generates research reports by using a multi-agent workflow. The system can plan a research task, search for trusted sources, write a draft, review citations, check content quality, revise through a loop, generate useful image placeholders, create images, and compose the final report with visuals.
 
+<img width="975" height="485" alt="image" src="https://github.com/user-attachments/assets/79956b65-a12a-4b1e-b5f6-9b7ac83b19c5" />
+
 ## Features
 
 * Research planning agent
