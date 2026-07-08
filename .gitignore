@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 .streamlit/secrets.toml
 .DS_Store
+
+.env
+__pycache__/
+.adk/
+*.pyc
